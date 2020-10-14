@@ -1,0 +1,20 @@
+div#emoji.emoji1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    /* width: 100%; */
+    flex-wrap: wrap;
+}
+
+p{
+    margin: 5px;
+    background-color: rgb(226, 223, 223);
+    padding: 70px;
+    border-radius: 15px;
+    
+}
+
+.text{
+   text-align: center;
+   font-family: avenir;
+}
